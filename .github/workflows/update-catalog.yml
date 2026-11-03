@@ -1,0 +1,60 @@
+name: Update catalog
+
+on:
+  workflow_dispatch:
+    inputs:
+      sizes:
+        description: 'Also fill approxSizeMB from installer downloads (slower)'
+        type: boolean
+        default: false
+  schedule:
+    - cron: '23 4 * * 1' # every Monday, 04:23 UTC
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-catalog
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Verify apps, find icons and build the catalog
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WITH_SIZES: ${{ inputs.sizes }}
+        run: |
+          if [ "$WITH_SIZES" = "true" ]; then
+            node scripts/build-catalog.mjs --sizes
+          else
+            node scripts/build-catalog.mjs
+          fi
+
+      - name: Check the format of the generated files
+        run: node scripts/check-format.mjs
+
+      - name: Commit and push the changed files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- catalog.json popular.json index.json report.md source/verified.json
+          [ -f source/icons-cache.json ] && git add -- source/icons-cache.json
+          # -A also stages icons that were removed; skipped when the folder never existed
+          if [ -d icons ] || [ -n "$(git ls-files icons)" ]; then git add -A -- icons; fi
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit -m "Update catalog $(date -u +%Y-%m-%d)"
+          git push
