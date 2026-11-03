@@ -1,0 +1,164 @@
+{
+  "7zip": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "audacity": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.audacityteam.org&sz=128",
+    "sha256": "98204654cea8493ac2fee5f13a9683979a7e6818f47e0d0be3ec5559fa24a176",
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "blender": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.blender.org&sz=128",
+    "sha256": "39b32f2d40451eb40890d79b505c389e8ba63c17be0205d85983fa2e915c4636",
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "brave": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=brave.com&sz=128",
+    "sha256": "2897a2bf74646d4191168ea6ea12cb660f8ebf2fc7d944ef59267c4e94eef255",
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "discord": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=discord.com&sz=128",
+    "sha256": "33cf3d76bd64c8b4f95ff68593095d9df63a6dac758a0434d1abea06ae1e7bbd",
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "epic-games": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "everything": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "git": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "gog-galaxy": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "handbrake": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "inkscape": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "krita": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=krita.org&sz=128",
+    "sha256": "398847476f62a263ab6bd84632d1ab2afbe8b86a2894f063d355a5a15b559792",
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "mozilla-firefox": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.mozilla.org&sz=128",
+    "sha256": "908089ea1d5fe668e6442da23cdc1bfb41b9fc68f0529c6cb8cf0d61bf8106b6",
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "nodejs-lts": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "notepad-plus-plus": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=notepad-plus-plus.org&sz=128",
+    "sha256": "431a96f9e0a7bffd0a65c52dddd4210bbd70a9dcc2fc9211fbe621600543168f",
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "obs-studio": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=obsproject.com&sz=128",
+    "sha256": "4f5ccfda11695bfe3a45556387406427de5914c1c41378443899362195b1c7d1",
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "paint-net": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=getpaint.net&sz=128",
+    "sha256": "9c3f8091e5f127b6b0f53cebc775dea74889143dc685a9439b9becc0456577f6",
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "powertoys": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "python-3": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.python.org&sz=128",
+    "sha256": "bf5a092ff7da9254194422a52d32f796ee65c82d2833a179277c3c1a32595a67",
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "sharex": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "spotify": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "steam": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=store.steampowered.com&sz=128",
+    "sha256": "6adce9438cd8234560aa1435425cc284cab946c6812ddb7ce39b6e181b8424f1",
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "telegram": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=desktop.telegram.org&sz=128",
+    "sha256": "61725ce481cc2bb68c9bda76bba328e6b40d19ef1f99b757530c37bead161ac7",
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "vlc": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "vscode": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=code.visualstudio.com&sz=128",
+    "sha256": "566fe0f6bad2e62c014150c294b6400822c7c694b63b991f4f348e2ff77490c2",
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "windows-terminal": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=docs.microsoft.com&sz=128",
+    "sha256": "b6ba5811173dc31f3b64c874651217571d9ac7f7e5f2533db85eb8ee9ef33b35",
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "zoom": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T03:49:42.956Z"
+  }
+}
