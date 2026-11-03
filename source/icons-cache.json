@@ -5,11 +5,257 @@
     "sha256": null,
     "checkedAt": "2026-11-03T03:49:42.956Z"
   },
+  "adguard-adguard": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=adguard.com&sz=128",
+    "sha256": "0a6b391188b02e7a0566f3d112f1f86e6f3880fcf11145b66260d2742e744e62",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "adobe-acrobat-reader-64-bit": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "adrienallard-fileconverter": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "agalwood-motrix": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "aimp-aimp": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.aimp.ru&sz=128",
+    "sha256": "0c221b05ffa5d9ecf7add797a06b1714ab714e011dc452a3764fb0d7c00aad60",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "ajeetdsouza-zoxide": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "alacritty-alacritty": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "alcpu-coretemp": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "amazon-awscli": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=aws.amazon.com&sz=128",
+    "sha256": "218088b686acff127255c0ace0113e5d40d985f77cb2b2c2a82b98ea5058adcf",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "amazon-corretto-21-jdk": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "amazon-games": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "amazon-kindle": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "anaconda-anaconda3": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "anaconda-miniconda3": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=docs.anaconda.com&sz=128",
+    "sha256": "7510052b1ef7a5f7a65f3c745cc94f5b0692172be1a5fb449e9ff252bd8c4045",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "angryziber-angryipscanner": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "angusjohnson-resourcehacker": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "anki-anki": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "anthropic-claude": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "antibodysoftware-wiztree": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=diskanalyzer.com&sz=128",
+    "sha256": "a75171997ae3c12addd1c0e30b18b9a1a8f4ceda11b684eaf157dff1b32f002f",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "anysphere-cursor": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.cursor.com&sz=128",
+    "sha256": "5c4d01615064ba91e5e14b96612e0b4fc7d6c94b491052582db93f902bcb5dfb",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "apache-netbeans": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=netbeans.apache.org&sz=128",
+    "sha256": "b342accc7caff48ab1e6f87e861b1c5e1996535fbd7e187564e08c25eddbe461",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "apache-openoffice": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.openoffice.org&sz=128",
+    "sha256": "d1846885cfcfe422666cfa791bc4e60e30ad5657c7e10750c8ef408a42599f8c",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "appest-ticktick": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "apple-itunes": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.apple.com&sz=128",
+    "sha256": "eb7f4b32c3d7492e9a0f47a27743924428009dc41d3605a0c59a98a154fc52ad",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "appwork-jdownloader": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "aria2-aria2": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "astral-sh-ruff": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "astral-sh-uv": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "atlassian-sourcetree": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
   "audacity": {
     "source": "favicon",
     "url": "https://www.google.com/s2/favicons?domain=www.audacityteam.org&sz=128",
     "sha256": "98204654cea8493ac2fee5f13a9683979a7e6818f47e0d0be3ec5559fa24a176",
     "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "autohotkey-autohotkey": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "automattic-simplenote": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=simplenote.com&sz=128",
+    "sha256": "7384244a410a7b05d81cc945de91be84fa9afd8d78f95530c1369d9163ed3374",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "axosoft-gitkraken": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.gitkraken.com&sz=128",
+    "sha256": "b85c2d2d6cd5fb4d59a96e474d5c5f76d47f066ee9ee6e66784a4cc8c35bcb99",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "azul-zulu-21-jdk": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "balena-etcher": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=etcher.balena.io&sz=128",
+    "sha256": "bfebb14add9c8181e21729259770cde0a113df5c15f095aec9b4a2dc34957610",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "bambulab-bambustudio": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "bandisoft-bandizip": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "bandisoft-honeyview": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "beeper-beeper": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.beeper.com&sz=128",
+    "sha256": "19e8947959c7adaaeda2028af24603c9ec08674ec5588436a2062f9eeb37e975",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "belledonnecommunications-linphone": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=linphone.org&sz=128",
+    "sha256": "02ea9d577bfa55d8f0255114b651ab8c240a9b951b364b34e1f97eee06cbf8ad",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "bitwarden-bitwarden": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=bitwarden.com&sz=128",
+    "sha256": "0f839701d9bd5ff506d2d6b19ab33e26e78dc8d4d10f6459e00329e72f5fd550",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "bleachbit-bleachbit": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
   },
   "blender": {
     "source": "favicon",
@@ -17,11 +263,233 @@
     "sha256": "39b32f2d40451eb40890d79b505c389e8ba63c17be0205d85983fa2e915c4636",
     "checkedAt": "2026-11-03T03:49:42.956Z"
   },
+  "blizzard-battlenet": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "bopsoft-listary": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
   "brave": {
     "source": "favicon",
     "url": "https://www.google.com/s2/favicons?domain=brave.com&sz=128",
     "sha256": "2897a2bf74646d4191168ea6ea12cb660f8ebf2fc7d944ef59267c4e94eef255",
     "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "bruno-bruno": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "burntsushi-ripgrep-msvc": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "bytedance-capcut": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.capcut.com&sz=128",
+    "sha256": "c119a2ed52875bfaa719400c3e5983f0425d6be4f5df872dceca1be5329019a9",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "bytedance-lark": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.larksuite.com&sz=128",
+    "sha256": "1f4253a963b6649eaaecfbd8173c08c68ca89e572ef9adbeb280dbec9d79adf1",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "calibre-calibre": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=calibre-ebook.com&sz=128",
+    "sha256": "5fc00233213a2a2a4037c3da6fe521c7b360bbd6c9b7e9700f67a9c891ff4f65",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "canonical-multipass": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "canonical-ubuntu-2404": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=ubuntu.com&sz=128",
+    "sha256": "3837d2a6144c871f69d4c1c0be64ae0c328f9c71a9a16717c1c024e77380991d",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "casey-just": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "cgsecurity-testdisk": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "chocolatey-chocolatey": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "cisco-webex": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "cloudflare-cloudflared": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "cloudflare-warp": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "clsid2-mpc-hc": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "codeium-windsurf": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=codeium.com&sz=128",
+    "sha256": "67be63a9b23052f448db687b60d64f48a7b3af3f5caae3779ab4e14dae8b4591",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "coreybutler-nvmforwindows": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "corsair-icue-5": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "cpuid-cpu-z": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "cpuid-hwmonitor": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "cryptomator-cryptomator": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "crystaldewworld-crystaldiskinfo": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "crystaldewworld-crystaldiskmark": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "curl-curl": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=curl.se&sz=128",
+    "sha256": "cc159518297fc1d96f41e5e4b82b5b60b89303e1e3a8489be9ef5a159077ca40",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "cygwin-cygwin": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "dandavison-delta": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "darktable-darktable": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "daum-potplayer": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=potplayer.tv&sz=128",
+    "sha256": "66f99fb3bb2c9fcc04ff4a0a03d9cc680aa6cf892e843b0ef613767fe9bcb22c",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "dbbrowserforsqlite-dbbrowserforsqlite": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=sqlitebrowser.org&sz=128",
+    "sha256": "d6c0fb2dc8ed58da16910180d381f6d635b7ee0a255f030db52e6605931a96ed",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "dbeaver-dbeaver-community": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "deezer-deezer": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.deezer.com&sz=128",
+    "sha256": "85e625041e64adc98af079a2366a2b86fc3a42c95f6a18e666af9fa7c359ac05",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "dell-commandupdate": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "delugeteam-deluge": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "denoland-deno": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "derailed-k9s": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "digitalscholar-zotero": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
   },
   "discord": {
     "source": "favicon",
@@ -29,11 +497,149 @@
     "sha256": "33cf3d76bd64c8b4f95ff68593095d9df63a6dac758a0434d1abea06ae1e7bbd",
     "checkedAt": "2026-11-03T03:49:42.956Z"
   },
+  "ditto-ditto": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "dnspyex-dnspy": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "docker-dockerdesktop": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.docker.com&sz=128",
+    "sha256": "9bb28dc5437e94b2dcd1ac5d3befbc384a64876e9a4e0d2988c82add245d833d",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "doist-todoist": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "dolphinemulator-dolphin": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "dominikreichl-keepass": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "dropbox-dropbox": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "duckduckgo-desktopbrowser": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=duckduckgo.com&sz=128",
+    "sha256": "d051492a411159c34bb4e055330061e92c6fecf2827b7231cb996e90604b8025",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "duongdieuphap-imageglass": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "eclipseadoptium-temurin-11-jdk": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=adoptium.net&sz=128",
+    "sha256": "ccfa1b4e3d0ce3c0d0b58b70290e874f90cddbda3d9edde7b8189af9dc00d0f1",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "eclipseadoptium-temurin-17-jdk": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=adoptium.net&sz=128",
+    "sha256": "ccfa1b4e3d0ce3c0d0b58b70290e874f90cddbda3d9edde7b8189af9dc00d0f1",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "eclipseadoptium-temurin-21-jdk": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=adoptium.net&sz=128",
+    "sha256": "ccfa1b4e3d0ce3c0d0b58b70290e874f90cddbda3d9edde7b8189af9dc00d0f1",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "eclipseadoptium-temurin-25-jdk": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=adoptium.net&sz=128",
+    "sha256": "ccfa1b4e3d0ce3c0d0b58b70290e874f90cddbda3d9edde7b8189af9dc00d0f1",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "eclipseadoptium-temurin-8-jdk": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=adoptium.net&sz=128",
+    "sha256": "ccfa1b4e3d0ce3c0d0b58b70290e874f90cddbda3d9edde7b8189af9dc00d0f1",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "electronicarts-eadesktop": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.ea.com&sz=128",
+    "sha256": "b1606344a58cdfbdb95daff1957a23b9383992d35d2c220a679176ea0f0384fd",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "element-element": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=element.io&sz=128",
+    "sha256": "b6a400aa43cce467eed5fba70503bcc2a34f87b918dada5e8c86aea0baedcea8",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "elementlabs-lmstudio": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=lmstudio.ai&sz=128",
+    "sha256": "efdb4f813b3c171ad90d680c462ee575193f3ca11f55479f53d57b63fdf076ce",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "elgato-streamdeck": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.elgato.com&sz=128",
+    "sha256": "5d353a560b2598a7ab2f2bc9c40be4dc7bd9aaf861b45b27532f174e666d28d8",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "eloston-ungoogled-chromium": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "emclient-emclient": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.emclient.com&sz=128",
+    "sha256": "20ff16dcf8f615913b3504dfbd08d9b61f2633aac3e9cdba467d5b73e9b44637",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "emoacht-monitorian": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
   "epic-games": {
     "source": "none",
     "url": null,
     "sha256": null,
     "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "eugeny-tabby": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=tabby.sh&sz=128",
+    "sha256": "9b69e3827c009b831158e0fb1cf4fa44e97c28d8b6579f8d0220cfe9814a8aa0",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "evernote-evernote": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=evernote.com&sz=128",
+    "sha256": "925ed2c78a7fa3649a4c0df861d152dfe6a4d65e07f315c99d8983f843ef70fd",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
   },
   "everything": {
     "source": "none",
@@ -41,11 +647,191 @@
     "sha256": null,
     "checkedAt": "2026-11-03T03:49:42.956Z"
   },
+  "expressvpn-expressvpn": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.expressvpn.com&sz=128",
+    "sha256": "75fbb0daa368636bb1be489b08da2d2a425b6d2439adfde02146f49985d958da",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "eza-community-eza": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "famatech-advancedipscanner": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "ferdium-ferdium": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "figma-figma": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.figma.com&sz=128",
+    "sha256": "f072e59a9c0fc36b5005ed541c0eb7d2f94ad9f3ef8204f8fe62f55cd01eaa98",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "file-new-project-eartrumpet": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "filescommunity-files": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "flameshot-flameshot": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=flameshot.org&sz=128",
+    "sha256": "218c4194e86402aaa356f44a31f3583bf7d34d921a95ad6d8743353ae7958ec8",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "florianheidenreich-mp3tag": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.mp3tag.de&sz=128",
+    "sha256": "bf9cfffd2cd65c67eacee4f363103c1891fca96ed4ad99479f61462dba1fdf1c",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "flow-launcher-flow-launcher": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "flux-flux": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "foundry376-mailspring": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "foxit-foxitreader": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "freecad-freecad": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "geany-geany": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "geeksoftwaregmbh-pdf24creator": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.pdf24.org&sz=128",
+    "sha256": "e82a7949f109859914f1797a165f6548b0df4b58c4843383731b6dbc9cf52e8f",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "genymobile-scrcpy": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "gerardog-gsudo": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "germancoding-synctrayzor": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "ghisler-totalcommander": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "gimp-gimp-3": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "giorgiotani-peazip": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
   "git": {
     "source": "none",
     "url": null,
     "sha256": null,
     "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "gitextensionsteam-gitextensions": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=gitextensions.github.io&sz=128",
+    "sha256": "c3aabc9b4f3fe63f0da2f72d07c78f36fc31b1fb4e81db684cc80168eabdd2d5",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "github-cli": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "github-githubdesktop": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "github-gitlfs": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "glavsoft-tightvnc": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "gnu-emacs": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "gnupg-gpg4win": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "godotengine-godotengine": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=godotengine.org&sz=128",
+    "sha256": "80c5339f50d790689f27f0f8f40375889369c94838df83988efa6fc155faf999",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
   },
   "gog-galaxy": {
     "source": "none",
@@ -53,11 +839,179 @@
     "sha256": null,
     "checkedAt": "2026-11-03T03:49:42.956Z"
   },
+  "golang-go": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=go.dev&sz=128",
+    "sha256": "65968ccd606dfb46d9c444125c6971c9fd17e938b83c80d1aa5b45ec87416210",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "google-androidstudio": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=developer.android.com&sz=128",
+    "sha256": "8e015621da080581004eb90eb95c9dc935969fcaf6eea75e11548e4ea6771132",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "google-cloudsdk": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=cloud.google.com&sz=128",
+    "sha256": "e6786befba0594198155098853e31442163d9577a35f8079f62953ed1b8d7f6e",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "google-earthpro": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.google.com&sz=128",
+    "sha256": "07e659b8dad50a8dcd5cedea1f521c94530286826207524937337fb47f337085",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "google-googledrive": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "google-platformtools": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=developer.android.com&sz=128",
+    "sha256": "8e015621da080581004eb90eb95c9dc935969fcaf6eea75e11548e4ea6771132",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "grammarly-grammarly": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "graphviz-graphviz": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "greenshot-greenshot": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=getgreenshot.org&sz=128",
+    "sha256": "9ab8999a4b8b3106bff25bd79197d7d4010644fce86271f4dfbc2dc74dbd3a07",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "gruntwork-terragrunt": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "guinpinsoft-makemkv": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.makemkv.com&sz=128",
+    "sha256": "8ac4bf5aa37116a10455c4c77d7fd6b22b6aaf9619568f451270ee84fe3a3542",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "guru3d-afterburner": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "guru3d-rtss": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "gyan-ffmpeg": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
   "handbrake": {
     "source": "none",
     "url": null,
     "sha256": null,
     "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "hashicorp-packer": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=developer.hashicorp.com&sz=128",
+    "sha256": "36ada7e5ac1bc152d7f6bfb7f8d927c5802b971495fd1dd1ada46547ad7296df",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "hashicorp-terraform": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "hashicorp-vagrant": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=developer.hashicorp.com&sz=128",
+    "sha256": "36ada7e5ac1bc152d7f6bfb7f8d927c5802b971495fd1dd1ada46547ad7296df",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "heidisql-heidisql": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.heidisql.com&sz=128",
+    "sha256": "680b489d37d4dd966b503866cc490035a7357e2304315008edc767cb87a7a7ff",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "helm-helm": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "henryplusplus-simplewall": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "heroicgameslauncher-heroicgameslauncher": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "heroku-herokucli": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "hexchat-hexchat": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "hluk-copyq": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "hugo-hugo-extended": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=gohugo.io&sz=128",
+    "sha256": "9c9978f67f3bbddfcd0f3c69b3c3a561dff58a92b26081fbcf945f96fd60aea1",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "icsharpcode-ilspy": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "idrix-veracrypt": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=veracrypt.io&sz=128",
+    "sha256": "cc2c00a00cc10a5d0a35fb0594013c4e5910b48c04eea5b3e27327d9dc63e2a6",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "imagemagick-imagemagick": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=imagemagick.org&sz=128",
+    "sha256": "a8a1ddb1ec7645a29aab7e88af123d129ff749b95f3b99c7ac200a75da913445",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
   },
   "inkscape": {
     "source": "none",
@@ -65,11 +1019,671 @@
     "sha256": null,
     "checkedAt": "2026-11-03T03:49:42.956Z"
   },
+  "insecure-nmap": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "intel-inteldriverandsupportassistant": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "irfanskiljan-irfanview": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "itchio-itch": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "ivpn-ivpn": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.ivpn.net&sz=128",
+    "sha256": "60ccffc77cf0f5c5a85b917d740133d61a5f223e7fc1a1be977a88627d2251fd",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "jamsoftware-treesize-free": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "jandedobbeleer-ohmyposh": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=ohmyposh.dev&sz=128",
+    "sha256": "0ac5881121cbe0c04bc92fa05ede8636f6fd6efda1dcbd072fab95ed7f6bc8a6",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "jellyfin-server": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "jernejsimoncic-wget": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "jesseduffield-lazygit": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "jetbrains-intellijidea-community": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.jetbrains.com&sz=128",
+    "sha256": "2f9f28600de0377160ca1bad95dcb0b2ff45c211a7c95dd875641b7e50c66098",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "jetbrains-pycharm-community": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.jetbrains.com&sz=128",
+    "sha256": "2f9f28600de0377160ca1bad95dcb0b2ff45c211a7c95dd875641b7e50c66098",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "jetbrains-toolbox": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.jetbrains.com&sz=128",
+    "sha256": "2f9f28600de0377160ca1bad95dcb0b2ff45c211a7c95dd875641b7e50c66098",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "jgraph-draw": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "johnmacfarlane-pandoc": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=pandoc.org&sz=128",
+    "sha256": "7fc08a365a9749b902532f3d57f6fa0bf3757c05cc47954cbfe8dba10c2bf21c",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "joplin-joplin": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "josephfinney-text-grab": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "jqlang-jq": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "junegunn-fzf": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "jurplel-qview": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "kde-kate": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=kate-editor.org&sz=128",
+    "sha256": "87ffebe5847f77d616e2c0bf0ab0ca4cb96d9f92d6b93a62d5afa6a0e31410e6",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "kde-kdeconnect": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=kdeconnect.kde.org&sz=128",
+    "sha256": "ce63bf4db92cb48a944e4188ef477759ed0ae0ab53fa521f44ebed6e30a76b8b",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "kde-kdenlive": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=kdenlive.org&sz=128",
+    "sha256": "14f95c14ef71f5a6cdd11be205018251b2954da23f8c0c8717a04eb96eb83e1d",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "kde-kdiff3": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=apps.kde.org&sz=128",
+    "sha256": "14eeddd0571667aef22ac99004c0f7023cd77da1a909ed09e084d2c5155d5bed",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "kde-okular": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=okular.kde.org&sz=128",
+    "sha256": "6d2766f1dacf0a6d6ad790d5941f9968238e54f8e5b3014f65e1e76f3f35f729",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "keepassxcteam-keepassxc": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=keepassxc.org&sz=128",
+    "sha256": "6454781e6cb313ca437ee59ad7435c9f359605094edeeb5f63a32ccffc725a93",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "keybase-keybase": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "kicad-kicad": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.kicad.org&sz=128",
+    "sha256": "288044ee6e5ab59845109c4f633b804543aa81afe7e5083aaadf4112dfaede6a",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "kitware-cmake": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "klocman-bulkcrapuninstaller": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.bcuninstaller.com&sz=128",
+    "sha256": "90caf3c8fa5ab39d397dc01ab63eb3b75f3ba3a608ff9d467afe10881d66896a",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "kopia-kopiaui": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
   "krita": {
     "source": "favicon",
     "url": "https://www.google.com/s2/favicons?domain=krita.org&sz=128",
     "sha256": "398847476f62a263ab6bd84632d1ab2afbe8b86a2894f063d355a5a15b559792",
     "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "kubernetes-kind": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=kind.sigs.k8s.io&sz=128",
+    "sha256": "971e45ab0feff9c68d0eca139018dd04ed4f5fdb65e470aee564ca337419228b",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "kubernetes-kubectl": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=kubernetes.io&sz=128",
+    "sha256": "ec1b5613b4ef76b4f118dbbf3253c42a886dfef607ab611303d437a9ed4c7810",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "kubernetes-minikube": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=minikube.sigs.k8s.io&sz=128",
+    "sha256": "9b616237383d973c81631995fea82ba242044da7397b89820decc6a77c59085f",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "lapce-lapce": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "lengockhoa-laragon": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=laragon.org&sz=128",
+    "sha256": "88278990cca691a8d866e3c326fa02a3667241e06dfcf68c8774b49f976461c0",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "librecad-librecad": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "librehardwaremonitor-librehardwaremonitor": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "libretro-retroarch": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "librewolf-librewolf": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=librewolf.net&sz=128",
+    "sha256": "c3e49b1bbc7fd068b0e8fe16f018472137174c3763bc1325707490d4b7b1c8b3",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "lightninguk-imgburn": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "lizardbyte-sunshine": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "llvm-llvm": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "lmms-lmms": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "localsend-localsend": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=localsend.org&sz=128",
+    "sha256": "189f97f0f346d64aaa4c28ed9dae200170208a2793b87f501cd1f6fc95bbc087",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "logitech-ghub": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "logitech-optionsplus": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.logitech.com&sz=128",
+    "sha256": "4bf93f28f43f118c19749436fa5bfdc5f3104bc14e03a756d7ad8fcc48774433",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "logmein-hamachi": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "logseq-logseq": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=logseq.com&sz=128",
+    "sha256": "2e19cc44498be0a2232bde6c7171e9521cea4931d3b6d1e2a4f920531f51ea19",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "m2team-nanazip": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "malwarebytes-malwarebytes": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.malwarebytes.com&sz=128",
+    "sha256": "da3f82376271a91fe60b2a556a2a6217d853a4d3f29f9807bfce2c589afa7fb2",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "mariadb-server": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=mariadb.org&sz=128",
+    "sha256": "ab7286feb3274da2cd8ec4f4dda9996a2e33c9435f55256a9740fd44a155cf2d",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "mattermost-mattermostdesktop": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=mattermost.com&sz=128",
+    "sha256": "b1610b01d2ee32b988db33e8ac00fe3a88cb6af5ffccc1053979ca031aa68f10",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "mediaarea-mediainfo-gui": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=mediaarea.net&sz=128",
+    "sha256": "998385776bed26d3044ea691d83609d33e3c0b4f66d32208a4aff2bfea09290d",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "mega-megasync": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=mega.nz&sz=128",
+    "sha256": "e3374676053f719266e0322a4b393152ee533ccff8de663cf947374013e7e32e",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "meltytech-shotcut": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "mercurial-mercurial": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.mercurial-scm.org&sz=128",
+    "sha256": "39424e28345f9b16b8a4949cd00b9aa9f3a59d121dd22644589f56903797016f",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "mhnexus-hxd": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-azure-azcopy-10": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-azure-functionscoretools": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-azure-storageexplorer": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=azure.microsoft.com&sz=128",
+    "sha256": "b6ba5811173dc31f3b64c874651217571d9ac7f7e5f2533db85eb8ee9ef33b35",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-azurecli": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=docs.microsoft.com&sz=128",
+    "sha256": "b6ba5811173dc31f3b64c874651217571d9ac7f7e5f2533db85eb8ee9ef33b35",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-bicep": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-dotnet-aspnetcore-8": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-dotnet-desktopruntime-10": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-dotnet-desktopruntime-8": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-dotnet-desktopruntime-9": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-dotnet-hostingbundle-8": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-dotnet-runtime-8": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-dotnet-sdk-10": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-dotnet-sdk-8": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-dotnet-sdk-9": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-edge": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.microsoft.com&sz=128",
+    "sha256": "b6ba5811173dc31f3b64c874651217571d9ac7f7e5f2533db85eb8ee9ef33b35",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-edgewebview2runtime": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=developer.microsoft.com&sz=128",
+    "sha256": "b6ba5811173dc31f3b64c874651217571d9ac7f7e5f2533db85eb8ee9ef33b35",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-edit": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-nuget": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-onedrive": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.microsoft.com&sz=128",
+    "sha256": "b6ba5811173dc31f3b64c874651217571d9ac7f7e5f2533db85eb8ee9ef33b35",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-openjdk-21": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.microsoft.com&sz=128",
+    "sha256": "b6ba5811173dc31f3b64c874651217571d9ac7f7e5f2533db85eb8ee9ef33b35",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-powerbi": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.microsoft.com&sz=128",
+    "sha256": "b6ba5811173dc31f3b64c874651217571d9ac7f7e5f2533db85eb8ee9ef33b35",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-powershell": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=128",
+    "sha256": "b6ba5811173dc31f3b64c874651217571d9ac7f7e5f2533db85eb8ee9ef33b35",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-powershell-preview": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=128",
+    "sha256": "b6ba5811173dc31f3b64c874651217571d9ac7f7e5f2533db85eb8ee9ef33b35",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-remotedesktopclient": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-sqlserver-2022-express": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.microsoft.com&sz=128",
+    "sha256": "b6ba5811173dc31f3b64c874651217571d9ac7f7e5f2533db85eb8ee9ef33b35",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-sysinternals-autoruns": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-sysinternals-processexplorer": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-sysinternals-processmonitor": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-teams": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.microsoft.com&sz=128",
+    "sha256": "b6ba5811173dc31f3b64c874651217571d9ac7f7e5f2533db85eb8ee9ef33b35",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-vcredist-2013-x64": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=support.microsoft.com&sz=128",
+    "sha256": "2d67d6cf3f255cd2574b868948351b1a09b0dde967c9f13a4f1fbb55236b2e90",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-vcredist-2015plus-x64": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-vcredist-2015plus-x86": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-visualstudio-2022-buildtools": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=visualstudio.microsoft.com&sz=128",
+    "sha256": "b6ba5811173dc31f3b64c874651217571d9ac7f7e5f2533db85eb8ee9ef33b35",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-visualstudio-2022-community": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=visualstudio.microsoft.com&sz=128",
+    "sha256": "b6ba5811173dc31f3b64c874651217571d9ac7f7e5f2533db85eb8ee9ef33b35",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-visualstudiocode-insiders": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=code.visualstudio.com&sz=128",
+    "sha256": "566fe0f6bad2e62c014150c294b6400822c7c694b63b991f4f348e2ff77490c2",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-windbg": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-windowsterminal-preview": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-wingetcreate": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "microsoft-wsl": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "mikefarah-yq": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "miktex-miktex": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "mirantis-lens": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "mitmproxy-mitmproxy": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "mobatek-mobaxterm": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "modrinth-modrinthapp": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "mojang-minecraftlauncher": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "mongodb-compass-full": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.mongodb.com&sz=128",
+    "sha256": "8476bc88b13f4161da7aea5e538cbff0d793ad55c02af6f941fcd1f263dfdb6d",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "mongodb-server": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.mongodb.com&sz=128",
+    "sha256": "8476bc88b13f4161da7aea5e538cbff0d793ad55c02af6f941fcd1f263dfdb6d",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "mongodb-shell": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.mongodb.com&sz=128",
+    "sha256": "8476bc88b13f4161da7aea5e538cbff0d793ad55c02af6f941fcd1f263dfdb6d",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "moonchildproductions-palemoon": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "moonlightgamestreamingproject-moonlight": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=moonlight-stream.org&sz=128",
+    "sha256": "32e136de12ade970edf427db69993b2d93caeab45377547595e8eaee79da2bb2",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "moritzbunkus-mkvtoolnix": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
   },
   "mozilla-firefox": {
     "source": "favicon",
@@ -77,11 +1691,131 @@
     "sha256": "908089ea1d5fe668e6442da23cdc1bfb41b9fc68f0529c6cb8cf0d61bf8106b6",
     "checkedAt": "2026-11-03T03:49:42.956Z"
   },
+  "mozilla-firefox-developeredition": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.mozilla.org&sz=128",
+    "sha256": "908089ea1d5fe668e6442da23cdc1bfb41b9fc68f0529c6cb8cf0d61bf8106b6",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "mozilla-firefox-esr": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.mozilla.org&sz=128",
+    "sha256": "908089ea1d5fe668e6442da23cdc1bfb41b9fc68f0529c6cb8cf0d61bf8106b6",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "mozilla-thunderbird": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.thunderbird.net&sz=128",
+    "sha256": "9e10b755be7a7f7da545e4e177fd7c0f10e6185fc25a14509c3ff49c1ee61c45",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "mremoteng-mremoteng": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=mremoteng.org&sz=128",
+    "sha256": "fe3537c21445677e1912eb3cb02c60a10f6ed10209a3d456f9b08dda9f1e3f79",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "msys2-msys2": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "mullvadvpn-mullvadvpn": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=mullvad.net&sz=128",
+    "sha256": "f44eab90d1076496366553b7d22ef1680dfdb1a0019f910bb9100fd2f4a08bc6",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "mumble-mumble-client": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.mumble.info&sz=128",
+    "sha256": "e79fc460997fbdedf1566b49a22916e40f110a999366d8dc6cee14c2f55780d1",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "musescore-musescore": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "musicbrainz-picard": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "nasm-nasm": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "neovim-neovim": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "nextcloud-nextclouddesktop": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "nexusmods-vortex": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "ngrok-ngrok": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=ngrok.com&sz=128",
+    "sha256": "5452999e0e72cca135c4c25cf13c7c6953b0cd5bc1ecaed067eaf3a54d2ccf09",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "nickemanarin-screentogif": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "nikse-subtitleedit": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "nilesoft-shell": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=nilesoft.org&sz=128",
+    "sha256": "65b82fffb64fefabbdce031a8ade3f1af9297a69bb835fc1aabb47b21094e542",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "ninja-build-ninja": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
   "nodejs-lts": {
     "source": "none",
     "url": null,
     "sha256": null,
     "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "nordsecurity-nordpass": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "nordsecurity-nordvpn": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
   },
   "notepad-plus-plus": {
     "source": "favicon",
@@ -89,11 +1823,167 @@
     "sha256": "431a96f9e0a7bffd0a65c52dddd4210bbd70a9dcc2fc9211fbe621600543168f",
     "checkedAt": "2026-11-03T03:49:42.956Z"
   },
+  "notion-notion": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.notion.com&sz=128",
+    "sha256": "5640c98062d12b627dfa6c6510bf175434aba5aebb6defb4b18b726b9702f0e8",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "nushell-nushell": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "nzxt-cam": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.nzxt.com&sz=128",
+    "sha256": "7c59fc00a8c21447266ac534f69fec527731f09ececa9a1b8b1b094847664991",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
   "obs-studio": {
     "source": "favicon",
     "url": "https://www.google.com/s2/favicons?domain=obsproject.com&sz=128",
     "sha256": "4f5ccfda11695bfe3a45556387406427de5914c1c41378443899362195b1c7d1",
     "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "obsidian-obsidian": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "ocbase-occt-personal": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.ocbase.com&sz=128",
+    "sha256": "8d122d5fbe728a9ba93070833b2664b2ad577e947266827366c88eec4c16f938",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "oliveteam-olivevideoeditor": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=olivevideoeditor.org&sz=128",
+    "sha256": "d09cf1ca8409b5a2d671b66bc0e8c4b80fa7bf658ec98fb0ec3b188556a2f086",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "ollama-ollama": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=ollama.com&sz=128",
+    "sha256": "401b18b1b1d2d287b5f307a76a5811606c39a6d9e82dff7faf5a4088b0b766cf",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "onlyoffice-desktopeditors": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.onlyoffice.com&sz=128",
+    "sha256": "3bbc7e860e98453df69509a3b18c4ddf8d1053c1f410c2f046aaba3d8492cdd4",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "oo-software-shutup10": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.oo-software.com&sz=128",
+    "sha256": "f34abf95e0e7f5bfc3779f9df2fb61d09f6a89183bf2b9525e81c4ba78b7fbf6",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "open-shell-open-shell-menu": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "openai-chatgpt": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "openjs-nodejs": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "openmedia-4kvideodownloader": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.4kdownload.com&sz=128",
+    "sha256": "bd8f6ebff649a42ea48fcface3966002d41f07135c78628f52fcf241d0e0e522",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "openscad-openscad": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "openshot-openshot": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "openvpntechnologies-openvpn": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "openvpntechnologies-openvpnconnect": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "openwhispersystems-signal": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.signal.org&sz=128",
+    "sha256": "25a310af3cac060da060a2de4da2d257ba27dae5685ca0afb04e46e1b47802b4",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "opera-opera": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "opera-operagx": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "oracle-javaruntimeenvironment": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "oracle-mysql": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "oracle-mysqlworkbench": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "oracle-virtualbox": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.virtualbox.org&sz=128",
+    "sha256": "fe96c771eaa6ffd61c868d4662918064aa82799d8440fe373c98fed3882285e9",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "oven-sh-bun": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=bun.sh&sz=128",
+    "sha256": "73fcfa042de1e6c1d3fcd3714329bc42769c3c82e707db9c9f2dcdc0f81f1dca",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "overwolf-curseforge": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
   },
   "paint-net": {
     "source": "favicon",
@@ -101,11 +1991,185 @@
     "sha256": "9c3f8091e5f127b6b0f53cebc775dea74889143dc685a9439b9becc0456577f6",
     "checkedAt": "2026-11-03T03:49:42.956Z"
   },
+  "parsec-parsec": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=parsec.app&sz=128",
+    "sha256": "8d07a4d785270c144c7d3ee26c0567b609a2140c53aff5e8fab34afd9de9efbf",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "pcsx2team-pcsx2": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "peterpawlowski-foobar2000": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "php-php-8-4": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=php.net&sz=128",
+    "sha256": "ebd164730ad74a1fc59e60b632e5ed0c3074a17fd873957ed8aeebeae5e73955",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "pidgin-pidgin": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=pidgin.im&sz=128",
+    "sha256": "8777b7eabd9e1222fe202845c30353084f7f302bb8da0b37135768a25a158de3",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "piriform-recuva": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "piriform-speccy": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "playnite-playnite": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "plex-plex": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.plex.tv&sz=128",
+    "sha256": "c352f3640feb74bdbde512824eb275c1bc82a0cdf2412ddb65626b13c3c3b602",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "plex-plexamp": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.plex.tv&sz=128",
+    "sha256": "c352f3640feb74bdbde512824eb275c1bc82a0cdf2412ddb65626b13c3c3b602",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "plex-plexmediaserver": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.plex.tv&sz=128",
+    "sha256": "c352f3640feb74bdbde512824eb275c1bc82a0cdf2412ddb65626b13c3c3b602",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "pnpm-pnpm": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "portswigger-burpsuite-community": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=portswigger.net&sz=128",
+    "sha256": "04fe108d3f5a2fbd2b9880dcc734c305590053f27cb8e6920f3822ad08623ebd",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "posit-rstudio": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=posit.co&sz=128",
+    "sha256": "28204630ab7a17aab9d247853820392a2296efa3ce53ce7654f4cc753a55d430",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "postbox-postbox": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.postbox-inc.com&sz=128",
+    "sha256": "4200b7ed70b0c74c469b03c72d78976a1ea8e11a10d577da233a7420da3f2897",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "postgresql-pgadmin": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.pgadmin.org&sz=128",
+    "sha256": "9be9f46ec5dc5c77a58652d4fcfc7e2e62f0d10060efa260a0bfe032fc3872df",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "postgresql-postgresql-16": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "postgresql-postgresql-17": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "postman-postman": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.postman.com&sz=128",
+    "sha256": "44182c0263a2d4de213acd8a67ed6163c319bd60154d5a573fa8e2bf8538d306",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
   "powertoys": {
     "source": "none",
     "url": null,
     "sha256": null,
     "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "ppssppteam-ppsspp": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.ppsspp.org&sz=128",
+    "sha256": "25fbe12f302206470c85a2fe59ef342ec6b7fddb93fb3a7c1e3c3252f7115b36",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "ppy-osu": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "prismlauncher-prismlauncher": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "proton-protondrive": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=proton.me&sz=128",
+    "sha256": "837f379456d25d5481a67bf59056ddef6c941149c1f8dc2bf627a7a72fe4a8ac",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "proton-protonmail": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=proton.me&sz=128",
+    "sha256": "837f379456d25d5481a67bf59056ddef6c941149c1f8dc2bf627a7a72fe4a8ac",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "proton-protonpass": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=proton.me&sz=128",
+    "sha256": "837f379456d25d5481a67bf59056ddef6c941149c1f8dc2bf627a7a72fe4a8ac",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "proton-protonvpn": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "prusa3d-prusaslicer": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "pulumi-pulumi": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "putty-putty": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
   },
   "python-3": {
     "source": "favicon",
@@ -113,11 +2177,215 @@
     "sha256": "bf5a092ff7da9254194422a52d32f796ee65c82d2833a179277c3c1a32595a67",
     "checkedAt": "2026-11-03T03:49:42.956Z"
   },
+  "python-python-3-10": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.python.org&sz=128",
+    "sha256": "bf5a092ff7da9254194422a52d32f796ee65c82d2833a179277c3c1a32595a67",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "python-python-3-11": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.python.org&sz=128",
+    "sha256": "bf5a092ff7da9254194422a52d32f796ee65c82d2833a179277c3c1a32595a67",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "python-python-3-12": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.python.org&sz=128",
+    "sha256": "bf5a092ff7da9254194422a52d32f796ee65c82d2833a179277c3c1a32595a67",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "python-python-3-13": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.python.org&sz=128",
+    "sha256": "bf5a092ff7da9254194422a52d32f796ee65c82d2833a179277c3c1a32595a67",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "qbittorrent-qbittorrent": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "rainmeter-rainmeter": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "randomengy-vidcoder": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=vidcoder.net&sz=128",
+    "sha256": "3316111f7eba784ed8085142bf8b0fa9f1e45ad98bb4993fa44c289653a1c989",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "randyrants-sharpkeys": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.randyrants.com&sz=128",
+    "sha256": "848a10c95a099a6fb89b2dd9bca4f44de2cf0edd705052b6cd9def7e2975b15e",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "raspberrypifoundation-raspberrypiimager": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "rclone-rclone": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "realix-hwinfo": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.hwinfo.com&sz=128",
+    "sha256": "16eff28480ef1dde69100b6091863362f7c6e699f497729ca229b7c7b1cfa55a",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "realvnc-vncviewer": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.realvnc.com&sz=128",
+    "sha256": "bad084c6ef1f4178a57edcb3107215a48e820b8338c3c5b6172069ac26635453",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "redhat-podman": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "redhat-podman-desktop": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "rem0o-fancontrol": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=getfancontrol.com&sz=128",
+    "sha256": "a8d846da19346e12390832518a3505c92f88901be6f8cd6e00495a2457cd7263",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "restic-restic": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "revouninstaller-revouninstaller": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "rizonesoft-notepad3": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.rizonesoft.com&sz=128",
+    "sha256": "308f4b3521fbdfab5a1eb882be554f7d92bf6f422ea5ae71c4760b6c2b154baa",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "rocksdanister-livelywallpaper": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "rproject-r": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "rufus-rufus": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=rufus.ie&sz=128",
+    "sha256": "86d246fc254d70655070fee976a6d03011410c1d0167f793766f50569d422b87",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "rustlang-rustup": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "schniz-fnm": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "scribus-scribus": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.scribus.net&sz=128",
+    "sha256": "c8d6eedd37cf9cc20cb0e1046bba74607e46860307debc799397ac5709c59b38",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "scummvm-scummvm": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.scummvm.org&sz=128",
+    "sha256": "854a3515ad7855e2e988ecd108f258ab4ef8f1e2269196be383efcdca58cf210",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
   "sharex": {
     "source": "none",
     "url": null,
     "sha256": null,
     "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "sharkdp-bat": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "sharkdp-fd": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "shininglight-openssl-light": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "skillbrains-lightshot": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "slacktechnologies-slack": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "smplayer-smplayer": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.smplayer.info&sz=128",
+    "sha256": "36ddfdab3ff3a8003928e4cc556a091fc7ff01ab4bb47d735c7be90463a736bc",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "softdeluxe-freedownloadmanager": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "softfever-orcaslicer": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=orcaslicer.com&sz=128",
+    "sha256": "a50b7da7b7b45bf32d473b14e44c121e1be8538f858a494a37d68b0077919698",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "softwarefreedomconservancy-qemu": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
   },
   "spotify": {
     "source": "none",
@@ -125,11 +2393,125 @@
     "sha256": null,
     "checkedAt": "2026-11-03T03:49:42.956Z"
   },
+  "standardnotes-standardnotes": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "starship-starship": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=starship.rs&sz=128",
+    "sha256": "9da3451b7904abcb9f47d7de8460d3818b12cff1dcbd4d353bf58f3c7a5d707d",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
   "steam": {
     "source": "favicon",
     "url": "https://www.google.com/s2/favicons?domain=store.steampowered.com&sz=128",
     "sha256": "6adce9438cd8234560aa1435425cc284cab946c6812ddb7ce39b6e181b8424f1",
     "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "steelseries-gg": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "stellarium-stellarium": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=stellarium.org&sz=128",
+    "sha256": "57aabd14bb3b13156e52b140fd775a3be10812bff84acebf90c9bea4b8b88c26",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "strawberryperl-strawberryperl": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "streamlink-streamlink": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=streamlink.github.io&sz=128",
+    "sha256": "51b7ea8f0e390c0aad9784e943e55cb1d06c04c6b653c7306cfdd020f57fa934",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "stremio-stremio": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.stremio.com&sz=128",
+    "sha256": "fd964ab38143286543310413aa3891e76a5ef878e95b317465f414e078663547",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "sublimehq-sublimemerge": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.sublimemerge.com&sz=128",
+    "sha256": "5efd0999b032b1a72e0a4819ef1c6e1da22a348ed7b8ee8534d2dc5910d3ca57",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "sublimehq-sublimetext-4": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.sublimetext.com&sz=128",
+    "sha256": "479774ec4da70f645d12ec3f8e3d11569f00a78b68aabfd5a3a3fe8c5995b705",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "sumatrapdf-sumatrapdf": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "surfshark-surfshark": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=surfshark.com&sz=128",
+    "sha256": "e55243af0cebaf04287e005c94af8ab874f648f7916e7e5673945dfa4d2256fe",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "suse-rancherdesktop": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "syncthing-syncthing": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "synfig-synfigstudio": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "tailscale-tailscale": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=tailscale.com&sz=128",
+    "sha256": "13b466e1698952a4ab7e2e536cc81cf52d5a023b6d9a623224739bc647931738",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "task-task": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=taskfile.dev&sz=128",
+    "sha256": "2f3c55c1e8f1fcbe82efaec522acd44c49832e727623e1f77f65f37ddd532425",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "teamspeaksystems-teamspeakclient": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.teamspeak.com&sz=128",
+    "sha256": "fbeb5c766ce6c0f46f6531e2915a2e0716298ee7da76f2f2502119711ba9bf96",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "teamviewer-teamviewer": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.teamviewer.com&sz=128",
+    "sha256": "9769596188970de68540c64f0a9defb14d8aea2f61e5726cf0c046e10ee6bec4",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "techpowerup-gpu-z": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
   },
   "telegram": {
     "source": "favicon",
@@ -137,11 +2519,143 @@
     "sha256": "61725ce481cc2bb68c9bda76bba328e6b40d19ef1f99b757530c37bead161ac7",
     "checkedAt": "2026-11-03T03:49:42.956Z"
   },
+  "telerik-fiddler-classic": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.telerik.com&sz=128",
+    "sha256": "b4af67a92b22fe4c2c135ef6d0b45aae9b79229629448cab476eff6a85d7a37f",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "tencent-qq": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "tencent-tencentmeeting": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "tencent-wechat": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=windows.weixin.qq.com&sz=128",
+    "sha256": "f0439e7f6018a0544edba85cf543a6fa7e0f070400a3d403b8e924d6f2af15a7",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "teratermproject-teraterm": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=teratermproject.github.io&sz=128",
+    "sha256": "1ed44388df209a78ccf0f66209d5af9725cb467e48675b57ecbb196866d652de",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "termius-termius": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=termius.com&sz=128",
+    "sha256": "c7c0710ce632f63578f7ba403ce273b100b56a33e16d9ff0b4b0232bf0bfb444",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "texstudio-texstudio": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "thebrowsercompany-arc": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "thedocumentfoundation-libreoffice": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "torproject-torbrowser": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "tortoisegit-tortoisegit": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=tortoisegit.org&sz=128",
+    "sha256": "0fa05286c04fb289a8523ff7486cec276562e68871e71dd1acf38fb950c75b3e",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "tortoisesvn-tortoisesvn": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=tortoisesvn.net&sz=128",
+    "sha256": "9ee0fae0ace44bac6d4f97cb4b8440f99a49e01c8a28cd1d7d189c8ac8f87a87",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "transmission-transmission": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=transmissionbt.com&sz=128",
+    "sha256": "2d78b658658b8b28701cacabff9e0fe1972d9491603b66b13ca91b95037ab84f",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "tutanota-tutanota": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "typst-typst": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "ub-mannheim-tesseractocr": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "ubisoft-connect": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=ubisoftconnect.com&sz=128",
+    "sha256": "fc7f08595a79668133a3829c0387c9f27477626080eb30b39d352db7bbc010b5",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "ultimaker-cura": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=ultimaker.com&sz=128",
+    "sha256": "d931ce8ed7715bd797d52b266cf511566870260188d2ed45042afb726e1f6636",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "unity-unityhub": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "upscayl-upscayl": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=upscayl.org&sz=128",
+    "sha256": "cb2bbe7e79d995c3207b2a427714373ad2d4ee8aac110dfa4c9b5ca62d141f69",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "ventoy-ventoy": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
   "vlc": {
     "source": "none",
     "url": null,
     "sha256": null,
     "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "volta-volta": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
   },
   "vscode": {
     "source": "favicon",
@@ -149,16 +2663,214 @@
     "sha256": "566fe0f6bad2e62c014150c294b6400822c7c694b63b991f4f348e2ff77490c2",
     "checkedAt": "2026-11-03T03:49:42.956Z"
   },
+  "vscodium-vscodium": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=vscodium.com&sz=128",
+    "sha256": "8422767d121a2ec3d002c7eec8918183b78db52dc35c8386968a9d2daf26286d",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "wagnardsoft-displaydriveruninstaller": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.wagnardsoft.com&sz=128",
+    "sha256": "9926ac44064d40b16763d1533686cc05aba43b371cab86fdbb9086a54236c781",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "warp-warp": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.warp.dev&sz=128",
+    "sha256": "06b268a06fc1869b17713a7dc10d6b2aa6c8f6b3c737f94c8d9273aac3ca9837",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "waterfox-waterfox": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.waterfox.net&sz=128",
+    "sha256": "6019503247123374c1ef3592568303e9c8a0b594fc89efbaf1751f8369050460",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "werwolv-imhex": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "wez-wezterm": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=wezterm.org&sz=128",
+    "sha256": "16cb4feea27daff6b89624e1827e252a4e5cb15a1d7101fcb5aa98273841846b",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "windirstat-windirstat": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
   "windows-terminal": {
     "source": "favicon",
     "url": "https://www.google.com/s2/favicons?domain=docs.microsoft.com&sz=128",
     "sha256": "b6ba5811173dc31f3b64c874651217571d9ac7f7e5f2533db85eb8ee9ef33b35",
     "checkedAt": "2026-11-03T03:49:42.956Z"
   },
+  "windscribe-windscribe": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "winfsp-winfsp": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=winfsp.dev&sz=128",
+    "sha256": "111c5e6775a398f36592739c52d5a10c7899a3d6dcd5f79f4be5553a53079326",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "winmerge-winmerge": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "winscp-winscp": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=winscp.net&sz=128",
+    "sha256": "b8df80423c140014982fabb05345d1858ddea78af254703dcfa1fd397fe648b7",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "winsiderss-systeminformer": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=system-informer.com&sz=128",
+    "sha256": "f2158b0035a7e60524702013bb4c354fcddc3ec23945ae650835d14a4fb4aa31",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "wireguard-wireguard": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.wireguard.com&sz=128",
+    "sha256": "a482bab154755ff24dfad528e3acf17a0360e92178a5bb23c8859279baf764d7",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "wiresharkfoundation-wireshark": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "x64dbg-x64dbg": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "xanderfrangos-twinkletray": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "xbmcfoundation-kodi": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=kodi.tv&sz=128",
+    "sha256": "1ac3dad3be7ae04ead87cb00a51fd95f4654d38a6d812eb3b6182a66ee5e55be",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "xmind-xmind": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=xmind.app&sz=128",
+    "sha256": "3315226e97eb0d234f3acd6c47ccb531a1f2fd85a241b118c5e09efd25d25e8f",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "xnsoft-xnconvert": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "xnsoft-xnviewmp": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "yandex-browser": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=browser.yandex.com&sz=128",
+    "sha256": "069caf9b36c9aab80cfe3c532d72f341ababcc70a75f01511ced1219aec1d407",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "yarn-yarn": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=yarnpkg.com&sz=128",
+    "sha256": "171556968f2267edf89d8c6a0dee263b9c150435d57e4aed78f8e068728667bf",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "yt-dlp-yt-dlp": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "yubico-authenticator": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.yubico.com&sz=128",
+    "sha256": "2f73050bb881f5d1817e13ca9e2083cb12ae753ed1f8be7331086cc6d0728599",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "yubico-yubikeymanager": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.yubico.com&sz=128",
+    "sha256": "2f73050bb881f5d1817e13ca9e2083cb12ae753ed1f8be7331086cc6d0728599",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "zap-zap": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "zedindustries-zed": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=zed.dev&sz=128",
+    "sha256": "383902e9d4b73f63d63fa460f1958b77569d54b3cfec28d6737f100bf95ffbdb",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "zen-team-zen-browser": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=zen-browser.app&sz=128",
+    "sha256": "15b7ca4c8905d5f3edf877c7544f76e65d6dd4248de9aa09aca4691af6ffae7a",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "zerotier-zerotierone": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.zerotier.com&sz=128",
+    "sha256": "5dec1aa6f79263fdf4ba699bf6c5fd632f2f9477bb583dd9010865884477749d",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "zettlr-zettlr": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.zettlr.com&sz=128",
+    "sha256": "e82c2ab25816f49cda55b4a5f1508bc49b2d80335d3aee6320279ce4e396c63e",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "zig-zig": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=ziglang.org&sz=128",
+    "sha256": "368e39a47e3f52ea79976f64f448b950f9c7d72c1ed23e471e7e0f27c1d88aa3",
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
   "zoom": {
     "source": "none",
     "url": null,
     "sha256": null,
     "checkedAt": "2026-11-03T03:49:42.956Z"
+  },
+  "zulip-zulip": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
+  },
+  "zyedidia-micro": {
+    "source": "none",
+    "url": null,
+    "sha256": null,
+    "checkedAt": "2026-11-03T04:05:03.307Z"
   }
 }
