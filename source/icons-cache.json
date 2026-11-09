@@ -851,6 +851,12 @@
     "sha256": "8e015621da080581004eb90eb95c9dc935969fcaf6eea75e11548e4ea6771132",
     "checkedAt": "2026-11-03T04:05:03.307Z"
   },
+  "google-chrome": {
+    "source": "favicon",
+    "url": "https://www.google.com/s2/favicons?domain=www.google.com&sz=128",
+    "sha256": "07e659b8dad50a8dcd5cedea1f521c94530286826207524937337fb47f337085",
+    "checkedAt": "2026-11-09T05:26:35.726Z"
+  },
   "google-cloudsdk": {
     "source": "favicon",
     "url": "https://www.google.com/s2/favicons?domain=cloud.google.com&sz=128",
