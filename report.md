@@ -1,20 +1,20 @@
 # Catalog report
 
-Generated: 2026-11-09T05:26:35.726Z
+Generated: 2026-11-16T05:44:10.758Z
 
 ## Counts
 
 - Apps in source/apps.json: 559 (519 free, 40 paid)
-- Free apps checked on GitHub this run: 40
-- Free apps taken from the 30-day cache: 479
+- Free apps checked on GitHub this run: 39
+- Free apps taken from the 30-day cache: 480
 - Free apps kept from an older check because GitHub could not be reached: 0
 - **Published apps: 520** (480 free, 40 paid)
 - Dropped: 39
 - Popular apps: 29
 - Websites filled in from winget manifests: 437
 - Sizes filled in (--sizes was off): 0
-- HTTP requests to GitHub: 97, retries: 0, rate-limit waits: 0
-- Previously published apps: 519
+- HTTP requests to GitHub: 93, retries: 0, rate-limit waits: 0
+- Previously published apps: 520
 
 ### Apps per category
 
@@ -35,10 +35,9 @@ Free apps with an icon file, by where it came from (480 free apps are published)
 - From the website favicon: 210
 - No icon (letter tile in the app): 270
 - Paid apps never get an icon: 40
-- This run: 209 kept from the cache (90-day rule, apps without icon: 30 days), 1 downloaded, 1 download requests, 0 could not be checked and are tried again next run
+- This run: 210 kept from the cache (90-day rule, apps without icon: 30 days), 0 downloaded, 0 download requests, 0 could not be checked and are tried again next run
 - Candidates rejected by the quality gate or safety rules: none; favicons equal to the service default icon: 0
 - Icons folder: 521 KB of 50 MB (files over 200000 bytes are never used)
-- Favicon default-icon check: ok, SHA-256 59bfe9bc385ad69f
 
 ### The 50 most popular apps without an icon
 
