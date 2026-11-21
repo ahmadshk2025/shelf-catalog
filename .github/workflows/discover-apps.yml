@@ -1,0 +1,53 @@
+name: Discover apps
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'store = normal desktop apps only, all = also CLI tools, SDKs, numbered versions'
+        type: choice
+        options: [store, all]
+        default: store
+      max_new:
+        description: 'Maximum number of new apps to add'
+        type: string
+        default: '12000'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: discover-apps
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Find new apps in winget-pkgs and add them to source/apps.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MODE: ${{ inputs.mode }}
+          MAX_NEW: ${{ inputs.max_new }}
+        run: node scripts/discover-winget.mjs --mode "$MODE" --max-new "$MAX_NEW"
+
+      - name: Commit and push the changed files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- source/apps.json source/verified.json source/discover-report.md
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit -m "Discover apps $(date -u +%Y-%m-%d)"
+          git push
